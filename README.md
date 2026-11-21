@@ -11,4 +11,4 @@
 Базовый запуск (выполнит 10 последовательных запросов):
 
 ```bash
-python speed_test.py [https://example.com/large-image.jpg](https://example.com/large-image.jpg)
+python speed_test.py https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Pizigani_1367_Chart_10MB.jpg/960px-Pizigani_1367_Chart_10MB.jpg
